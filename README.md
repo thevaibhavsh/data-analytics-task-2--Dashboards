@@ -8,9 +8,9 @@ This project analyzes an **Amazon Sales Dataset (20K records)** using Power BI. 
 ---
 
 ## 📁 Files Included
-- `Amazon-Sales Report (Dashboard).pbix` – Power BI dashboard file 
-- `[Amazon-Sales Report.xlsx](https://github.com/user-attachments/files/20576007/Amazon-Sales.Report.xlsx)` – Source dataset  
-- `![Dashboard Screenshot](https://github.com/user-attachments/assets/eb325788-c060-4976-8a10-099410d22940)` – Power BI dashboard screenshot  
+- Amazon-Sales Report (Dashboard).pbix – Power BI dashboard file 
+- [Amazon-Sales Report.xlsx](https://github.com/user-attachments/files/20576007/Amazon-Sales.Report.xlsx) – Source dataset  
+- ![Dashboard Screenshot](https://github.com/user-attachments/assets/eb325788-c060-4976-8a10-099410d22940) – Power BI dashboard screenshot  
 
 ---
 

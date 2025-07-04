@@ -7,32 +7,6 @@ This project analyzes an **Amazon Sales Dataset (20K records)** using Power BI. 
 
 ---
 
-## 📈 Methodology
-
-### 1️⃣ Data Cleaning
-- Remove records with missing/null key fields (Sales, Profit, Category, Sub-Category).
-- Check for outliers in numerical data.
-- Extract seasonality features from date fields.
-
-### 2️⃣ SQL Analysis
-- Compute profit margins by Category & Sub-Category.
-- Evaluate sales & profit distribution by region & market.
-- Calculate average inventory days.
-
-### 3️⃣ Python Analysis
-- Correlation between inventory days & profitability.
-- Scatterplot visualizations of inventory vs profit.
-
-### 4️⃣ Dashboard
-- KPIs: Sales, Profit, Avg Delivery Days, Return Orders.
-- Region-wise sales map.
-- Top profit/loss products & customers.
-- Inventory days vs profit.
-
----
-
----
-
 ## Deliverables
 ## 📁 Files Included
 - Amazon-Sales Report (Dashboard).pbix – Power BI dashboard file 
